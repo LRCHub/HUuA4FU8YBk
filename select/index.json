@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あの日、あの世界で",
+  "base_artist": "ミテイノハナシ",
+  "createdAt": "2026-02-14T12:28:02.173653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの日、あの世界で",
+      "artist": "ミテイノハナシ",
+      "has_synced": false,
+      "path": "select/pl_01_あの日、あの世界で_ミテイノハナシ.txt"
+    }
+  ]
+}
